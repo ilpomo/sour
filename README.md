@@ -1,6 +1,13 @@
 ![Header image of the midori's project repository. Photo by <a href="https://unsplash.com/it/@resourcedatabase?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Resource Database</a> su <a href="https://unsplash.com/it/foto/un-primo-piano-di-un-oggetto-bianco-e-nero-k_jj6N5fU-8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   ](docs/header.jpg)
 
+![Release](https://img.shields.io/github/v/release/ilpomo/sour?color=70e000)
+![Tag](https://img.shields.io/github/v/tag/ilpomo/sour?color=70e000)
+![Lines of code](https://img.shields.io/tokei/lines/github/ilpomo/sour?color=70e000)
+![Repo size](https://img.shields.io/github/repo-size/ilpomo/sour?color=70e000)
+![Downloads](https://img.shields.io/github/downloads/ilpomo/sour/total?color=color%3D70e000)
+![License](https://img.shields.io/github/license/ilpomo/sour?color=70e000)
+
 # sour: blazingly fast technical analysis indicators based on Polars
 
 > To fix the world, we needed to do two things. One, to solve the general problem of “how to connect any code to any 
